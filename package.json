@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "csv-writer": "^1.6.0",
+    "node-notifier": "^10.0.1",
     "puppeteer": "^22.10.0"
   }
 }
